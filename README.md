@@ -5,7 +5,8 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Swift+%7C+SwiftUI+%7C+UIKit+Expert;40%2B+iOS+Apps+Shipped+to+App+Store;MVVM+%7C+VIPER+%7C+Clean+Architecture;CI%2FCD+%7C+Fastlane+%7C+GitHub+Actions;Leading+Teams+%26+Mentoring+Engineers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?🚀 Career Highlights
+font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Swift+%7C+SwiftUI+%7C+UIKit+Expert;40%2B+iOS+Apps+Shipped+to+App+Store;MVVM+%7C+VIPER+%7C+Clean+Architecture;CI%2FCD+%7C+Fastlane+%7C+GitHub+Actions;Leading+Teams+%26+Mentoring+Engineers" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +47,7 @@ struct HimanshuKesharwani {
 
 ## 🚀 Career Highlights
 
-<div align="center">
+<div align="left">
 
 | 🏆 Metric | 📊 Achievement |
 |---|---|
