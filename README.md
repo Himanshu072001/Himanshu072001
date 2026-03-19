@@ -204,7 +204,7 @@ struct HimanshuKesharwani {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshu072001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu072001&theme=tokyonight&hide_border=true" />
@@ -219,7 +219,7 @@ struct HimanshuKesharwani {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Himanshu072001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
@@ -227,7 +227,7 @@ struct HimanshuKesharwani {
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:himanshu.kesharwani.02@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
